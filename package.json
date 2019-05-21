@@ -27,6 +27,11 @@
     "webpack-dev-server": "^3.1.10"
   },
   "dependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "core-js": "3",
+    "google-map-react": "^1.1.4",
+    "prop-types": "^15.5.6",
     "react": "16.2",
     "react-dom": "16.2"
   },
